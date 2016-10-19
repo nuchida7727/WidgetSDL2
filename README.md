@@ -18,7 +18,7 @@ bool Run(void) {
 }
 ```
 サンプル(widget_test)  
-![サンプル](https://github.com/nuchida7727/WidgetSDL2/doc/sample.jpg)
+![サンプル](./doc/sample.jpg)
 
 # Requirement
 OS  
