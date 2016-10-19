@@ -1,7 +1,7 @@
 chcp 437
 copy ..\..\bin\Makefile Makefile
-"U:\Application\TDM-GCC-32\bin\mingw32-make.exe"
+mingw32-make
 main.exe
-"U:\Application\TDM-GCC-32\bin\mingw32-make.exe" clean
+mingw32-make clean
 del Makefile
 rem pause

@@ -8,6 +8,7 @@ WidgetSDL2 - C99/SDL2によるクロスプラットホームなシンプルGUI
 C99によるクロスプラットホームに対応したシンプルGUI
 
 # Domo
+サンプル(gui_test)  
 ```c:main.c
 #include "SDL2/SDL.h"
 #include "../../include/guiglobal.h"
@@ -16,6 +17,8 @@ bool Run(void) {
     return(true);
 }
 ```
+サンプル(widget_test)  
+![サンプル](https://github.com/nuchida7727/WidgetSDL2/doc/sample.jpg)
 
 # Requirement
 OS  
