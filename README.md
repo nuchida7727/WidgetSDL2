@@ -41,7 +41,7 @@ only include header
 MIT
 
 # Author
-nuchida7727@adagio.ocn.ne.jp
+nuchida7727@gmail.com
 
 #Reference
 ke2k-tools  
