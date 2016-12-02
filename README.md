@@ -3,6 +3,7 @@
 
 # Overview
 WidgetSDL2 - C99/SDL2によるクロスプラットホームなシンプルGUI
+(2016.12.02)
 
 # Description
 C99によるクロスプラットホームに対応したシンプルGUI  
